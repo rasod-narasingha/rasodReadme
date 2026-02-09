@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Regression, Classification, and Data Visualization**  
 
-- 📫 How to reach me **hirushanethsara59@gmail.com**  
+- 📫 How to reach me **rasoddarpana@gmail.com**  
 
 - ⚡ Fun fact **I love exploring datasets and coding late at night with coffee!**
 
