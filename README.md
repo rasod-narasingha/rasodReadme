@@ -1,8 +1,8 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
-  Hi 👋, I'm Hirusha Nethsara  
+  Hi 👋, I'm Rasod Narasingha  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning;Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Analysis;Machine+Learning;Deep+Learning" alt="Typing SVG" />
 </h1>
 
 >
@@ -68,13 +68,13 @@
 
 ### 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nethsara&show_icons=true&theme=radical)
- <a href="https://github.com/Nethsara-code"><img alt="Vishwa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Vishwaschandrasekara5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasod&show_icons=true&theme=radical)
+ <a href="https://github.com/rasod-narasingha"><img alt="Vishwa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Vishwaschandrasekara5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> 
 ---
 
 ### 🔗 Connect with me:
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-</p>
+</p> -->
